@@ -1,0 +1,16 @@
+---
+title: armctf
+
+exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
+
+permalink: pretty
+
+collections:
+  armctf:
+    output: true
+
+defaults:
+  - scope:
+      path: '_armctf'
+    values:
+      layout: bin
