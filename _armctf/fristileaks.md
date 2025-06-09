@@ -1,0 +1,11 @@
+---
+curls:
+  fristileaks:
+    -
+functions:
+  fristileaks:
+    -
+wals:
+  fristileaks:
+    -
+---
