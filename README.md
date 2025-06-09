@@ -15,7 +15,7 @@ a week ago, a friend asked me if he can find vulnhub-like machines to import and
 so i decided to do it as a side project.  
 
 ## important note
-don't expect ctfs to be 1:1 in arm64 rebuild. expect some changes, especially suid binaries. some struggles:
+don't expect ctfs to be 1:1 in arm64 rebuild. expect some changes, especially suid binaries. some struggles an why they're not included:
 
 1- buffer overflows  
 _differ from x86_  
@@ -42,24 +42,30 @@ downloads handled by nextcloud, server located in germany. every link's password
 ctfs are prepared on vmware fusion, so sticking with it is a good idea.
 
 let's say, you downloaded `driftingblues3.7z` to `emre` folder.  
+
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/2.jpg)
 
 
-double click it to extract. (or `7z x driftingblues3.7z`)
+
+double click it to extract. (or `7z x driftingblues3.7z`)  
+
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/1.jpg)
 
 
-there is now `armctf.vmwarevm` machine folder. its name is `armctf.vmwarevm` because it's a template, which i build machines on original snapshot.
+there is now `armctf.vmwarevm` machine folder. its name is `armctf.vmwarevm` because it's a template, which i build machines on original snapshot.  
+
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/3.jpg)
 
 
 open vmware fusion. follow `file > open` or `command + o`. browse your freshly extracted `armctf.vmwarevm` and open it. after importing, library entry is added.  
+
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/4.jpg)
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/5.jpg)
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/6.jpg)
+  
+  
+before starting the vm, don't forget to configure network. nat, cable bridge or wifi bridge.. your choice.  
 
-
-before starting the vm, don't forget to configure network. nat, cable bridge or wifi bridge.. your choice.
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/7.jpg)
 
 
@@ -68,7 +74,7 @@ let's roll!
 ## contributing
 since rebuilding ctfs are taking a lot of time, i'm actively seeking your help to expand this project.
 
-you can find base images below. root password is `asd`.  
+if you decided to help, you can find base images below. root password is `asd`.  
 
 debian 12 (kernel version 6.1.0-37)  
 link: https://nc.zurrak.com/s/sx7k36LtTCK3g8o  
