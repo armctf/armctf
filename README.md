@@ -53,7 +53,7 @@ there is now `armctf.vmwarevm` machine folder. its name is `armctf.vmwarevm` bec
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/3.jpg)
 
 
-open vmware fusion. follow `file > open` or `command + o`. browse your freshly extracted `armctf.vmwarevm` and open it. after importing, library entry is added. 
+open vmware fusion. follow `file > open` or `command + o`. browse your freshly extracted `armctf.vmwarevm` and open it. after importing, library entry is added.  
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/4.jpg)
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/5.jpg)
 ![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/6.jpg)
