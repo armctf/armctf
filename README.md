@@ -42,11 +42,11 @@ downloads handled by nextcloud, server located in germany. every link's password
 ctfs are prepared on vmware fusion, so sticking with it is a good idea.
 
 let's say, you downloaded `driftingblues3.7z` to `emre` folder.  
-![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/1.jpg)
+![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/2.jpg)
 
 
 double click it to extract. (or `7z x driftingblues3.7z`)
-![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/2.jpg)
+![](https://raw.githubusercontent.com/armctf/armctf/main/gitassets/1.jpg)
 
 
 there is now `armctf.vmwarevm` machine folder. its name is `armctf.vmwarevm` because it's a template, which i build machines on original snapshot.
