@@ -15,7 +15,7 @@ a week ago, a friend asked me if he can find vulnhub-like machines to import and
 so i decided to do it as a side project.  
 
 ## important note
-don't expect ctfs to be 1:1 in arm64 rebuild. expect some changes, especially suid binaries. some struggles an why they're not included:
+don't expect ctfs to be 1:1 in arm64 rebuild. expect some changes, especially suid binaries. some struggles and why they're not included:
 
 1- buffer overflows  
 _differ from x86_  
@@ -30,10 +30,10 @@ _vmware fusion is not supporting linux kernels below 4.idontremember.0. best i c
 _no arm version, no party._  
 
 5- windows machines  
-_currently no, but thinking about it._  
+_didn't even tried windows arm, but will do a research about it_  
 
 ## vm resources
-all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of sources.  
+all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of resources.  
 
 ## downloading 
 downloads handled by nextcloud, server located in germany. every link's password is `KedileriSeverim666`. if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists.
