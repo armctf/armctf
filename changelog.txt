@@ -1,2 +1,5 @@
+# armctf p2 - pool update @ 12.06.2025
+>added 10 machines
+
 # armctf p1 - initial commit @ 09.06.2025
 >added 10 machines

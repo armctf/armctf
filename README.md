@@ -18,7 +18,7 @@ so i decided to do it as a side project.
 don't expect ctfs to be 1:1 in arm64 rebuild. expect some changes, especially suid binaries. some struggles and why they're not included:
 
 1- buffer overflows  
-_differ from x86_  
+_differ from x86._  
 
 2- binary exploits  
 _need source code, which is not possible._  
@@ -30,7 +30,7 @@ _vmware fusion is not supporting linux kernels below 4.idontremember.0. best i c
 _no arm version, no party._  
 
 5- windows machines  
-_didn't even tried windows arm, but will do a research about it_  
+_didn't even tried windows arm, but will do a research about it._  
 
 ## vm resources
 all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of resources.  
