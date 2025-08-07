@@ -1,3 +1,10 @@
+# armctf c1 - correction update @ 07.08.2025
+>because of .vmsd files inside of machine folder,
+ machines were semi broken
+ all machines renewed without .vmsd files
+ also all urls and sha256sums has new values
+>removed password requirement from urls
+
 # armctf p2 - pool update @ 12.06.2025
 >added 10 machines
 
