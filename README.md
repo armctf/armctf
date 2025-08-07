@@ -1,3 +1,4 @@
+
 # about armctf
 armctf is a project that provides downloadable vulnerable virtual machines, rebuilt from amd64 to arm64. it's for users to practice ctf challenges on arm-based systems.  
 
@@ -36,7 +37,7 @@ _didn't even tried windows arm, but will do a research about it._
 all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of resources.  
 
 ## downloading 
-downloads handled by nextcloud, server located in germany. every link's password is `KedileriSeverim666`. if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists.
+downloads handled by nextcloud, server located in germany. every download is public so there should be no problem. if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists.
 
 ## importing
 ctfs are prepared on vmware fusion, so sticking with it is a good idea.
@@ -77,12 +78,12 @@ since rebuilding ctfs are taking a lot of time, i'm actively seeking your help t
 if you decided to help, you can find base images below. root password is `asd`.  
 
 debian 12 (kernel version 6.1.0-37)  
-link: https://nc.zurrak.com/s/sx7k36LtTCK3g8o  
-sha256 checksum: 5d87892f7d08e25bb6813538c660b30eb438abd6484b798fcfa222ca533cfd0c  
+url: https://nc.zurrak.com/s/Gg8PH2Jxqny34jk  
+sha256 checksum: `3dbe736ad4d68fe4b2753fd2e036405b3ffe9c651a849e58693ebe4e54e56da2`  
 
 debian 11 (kernel version 5.10.0-8) >>> it's for ctfs that has kernel exploiting step  
-link: https://nc.zurrak.com/s/bjeJo6ekLiS7q4D  
-sha256 checksum: 537bdbf37958204d91d54fd6c1afcf82c36313b9cdbf4cce83ad775d058e457e  
+url: https://nc.zurrak.com/s/S7r2Y4B8NCETg97 
+sha256 checksum: `ae9095e0613578462242b346be4227f6217a717165a4f6c738d58db6b169dedc`  
 
 you can always contact me from [here](https://armctf.com/contact.html).
 
