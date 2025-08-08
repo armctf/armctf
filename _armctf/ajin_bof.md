@@ -1,0 +1,11 @@
+---
+curls:
+  ajin_bof:
+    -
+functions:
+  ajin_bof:
+    -
+wals:
+  ajin_bof:
+    -
+---
