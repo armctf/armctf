@@ -1,3 +1,6 @@
+# armctf i1 - single push @ 08.08.2025
+>added ajin_bof
+
 # armctf c1 - correction update @ 07.08.2025
 >because of .vmsd files inside of machine folder,
  machines were semi broken
