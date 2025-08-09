@@ -1,8 +1,12 @@
+# armctf c2 - correction update @ 09.08.2025
+>forgot to resize arm32 qemu image
+ problem fixed, there is a lot of space right now
+
 # armctf i1 - single push @ 08.08.2025
 >added ajin_bof
 
 # armctf c1 - correction update @ 07.08.2025
->because of .vmsd files inside of machine folder,
+>because of .vmsd files inside of machine folders,
  machines were semi broken
  all machines renewed without .vmsd files
  also all urls and sha256sums has new values
