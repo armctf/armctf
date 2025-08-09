@@ -1,3 +1,6 @@
+# armctf c3 - correction update @ 09.08.2025
+>forgot to add apache2
+
 # armctf c2 - correction update @ 09.08.2025
 >forgot to resize arm32 qemu image
  problem fixed, there is a lot of space right now
