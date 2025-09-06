@@ -1,3 +1,6 @@
+# armctf m1 - maintenance update @ 06.09.2025
+>search function improved
+
 # armctf c3 - correction update @ 09.08.2025
 >forgot to add apache2
 
