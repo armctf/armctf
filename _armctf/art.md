@@ -1,0 +1,11 @@
+---
+curls:
+  art:
+    -
+functions:
+  art:
+    -
+wals:
+  art:
+    -
+---

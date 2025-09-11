@@ -16,13 +16,22 @@
         <tbody>
             {% for file in site.armctf %}
             <tr>
-                <td class="vvm-name"><a class="bin-name">{% include get_bin_name path=file.path %}</a></td>
+                <td class="vvm-name">
+                    {% capture bin_name %}{% include get_bin_name path=file.path %}{% endcapture %}
+                    {% assign url = site.data.links[bin_name] %}
+                    {% if url %}
+                        <a class="bin-name" href="{{ url }}" target="_blank">{{ bin_name }}</a>
+                    {% else %}
+                        <span class="bin-name">{{ bin_name }}</span>
+                    {% endif %}
+                </td>
                 <td>{% include function_list.html bin=file %}</td>
-		<td class="vvm-curl">{% include curl_list.html bin=file %}</td>
-		<td class="vvm-wal">{% include wal_list.html bin=file %}</td>
+                <td class="vvm-curl">{% include curl_list.html bin=file %}</td>
+                <td class="vvm-wal">{% include wal_list.html bin=file %}</td>
             </tr>
             {% endfor %}
         </tbody>
+
         <tfoot>
             <tr><td id="search-message" colspan="2">no matches...</td></tr>
         </tfoot>
