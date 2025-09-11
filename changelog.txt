@@ -1,3 +1,6 @@
+# armctf p3 - pool update @ 11.09.2025
+>added 10 machines
+
 # armctf m1 - maintenance update @ 06.09.2025
 >search function improved
 
