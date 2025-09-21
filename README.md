@@ -82,8 +82,8 @@ url: https://nc.zurrak.com/s/Gg8PH2Jxqny34jk
 sha256 checksum: `3dbe736ad4d68fe4b2753fd2e036405b3ffe9c651a849e58693ebe4e54e56da2`  
 
 debian 11 (kernel version 5.10.0-8) >>> it's for ctfs that has kernel exploiting step  
-url: https://nc.zurrak.com/s/S7r2Y4B8NCETg97  
-sha256 checksum: `ae9095e0613578462242b346be4227f6217a717165a4f6c738d58db6b169dedc`  
+url: https://nc.zurrak.com/s/93FSjaHJK7ZzFBN  
+sha256 checksum: `8897c6516fbd4dd89b301ae5df61e7f8f619ba4564dfb5d609ddf2a17b79e202`  
 
 you can always contact me from [here](https://armctf.com/contact.html).
 
