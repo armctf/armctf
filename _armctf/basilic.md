@@ -1,0 +1,11 @@
+---
+curls:
+  basilic:
+    -
+functions:
+  basilic:
+    -
+wals:
+  basilic:
+    -
+---
