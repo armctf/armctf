@@ -1,0 +1,11 @@
+---
+curls:
+  bob:
+    -
+functions:
+  bob:
+    -
+wals:
+  bob:
+    -
+---

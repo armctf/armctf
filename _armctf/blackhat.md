@@ -1,0 +1,11 @@
+---
+curls:
+  blackhat:
+    -
+functions:
+  blackhat:
+    -
+wals:
+  blackhat:
+    -
+---
