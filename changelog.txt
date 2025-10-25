@@ -1,3 +1,6 @@
+# armctf p5 - pool update @ 26.10.2025
+>added 10 machines
+
 # armctf p4 - pool update @ 22.09.2025
 >added 10 machines
 

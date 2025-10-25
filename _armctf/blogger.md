@@ -1,0 +1,11 @@
+---
+curls:
+  blogger:
+    -
+functions:
+  blogger:
+    -
+wals:
+  blogger:
+    -
+---
