@@ -2,6 +2,8 @@
 curls:
   bottleneck:
     -
+  bottleneckcm:
+    -
 functions:
   bottleneck:
     -

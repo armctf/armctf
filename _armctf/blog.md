@@ -2,6 +2,8 @@
 curls:
   blog:
     -
+  blogcm:
+    -
 functions:
   blog:
     -

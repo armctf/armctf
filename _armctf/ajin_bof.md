@@ -2,6 +2,8 @@
 curls:
   ajin_bof:
     -
+  ajin_bofcm:
+    -
 functions:
   ajin_bof:
     -

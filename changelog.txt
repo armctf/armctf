@@ -1,3 +1,7 @@
+# armctf m2 - maintenance update @ 09.12.2025
+>added ctfmirror urls
+>boxing's wrong url fixed
+
 # armctf p6 - pool update @ 15.11.2025
 >added 10 machines
 

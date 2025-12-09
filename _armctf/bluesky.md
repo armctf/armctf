@@ -2,6 +2,8 @@
 curls:
   bluesky:
     -
+  blueskycm:
+    -
 functions:
   bluesky:
     -

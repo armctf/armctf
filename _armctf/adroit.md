@@ -2,6 +2,8 @@
 curls:
   adroit:
     -
+  adroitcm:
+    -
 functions:
   adroit:
     -

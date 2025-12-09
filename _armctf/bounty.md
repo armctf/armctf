@@ -2,6 +2,8 @@
 curls:
   bounty:
     -
+  bountycm:
+    -
 functions:
   bounty:
     -

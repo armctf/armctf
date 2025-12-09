@@ -2,6 +2,8 @@
 curls:
   myexpense:
     -
+  myexpensecm:
+    -
 functions:
   myexpense:
     -

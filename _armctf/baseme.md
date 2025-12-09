@@ -2,6 +2,8 @@
 curls:
   baseme:
     -
+  basemecm:
+    -
 functions:
   baseme:
     -

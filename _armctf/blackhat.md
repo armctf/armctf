@@ -2,6 +2,8 @@
 curls:
   blackhat:
     -
+  blackhatcm:
+    -
 functions:
   blackhat:
     -

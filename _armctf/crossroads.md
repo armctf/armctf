@@ -2,6 +2,8 @@
 curls:
   crossroads:
     -
+  crossroadscm:
+    -
 functions:
   crossroads:
     -

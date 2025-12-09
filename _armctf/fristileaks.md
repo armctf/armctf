@@ -2,6 +2,8 @@
 curls:
   fristileaks:
     -
+  fristileakscm:
+    -
 functions:
   fristileaks:
     -

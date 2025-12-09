@@ -2,6 +2,8 @@
 curls:
   driftingblues:
     -
+  driftingbluescm:
+    -
 functions:
   driftingblues:
     -

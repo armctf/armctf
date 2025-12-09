@@ -2,6 +2,8 @@
 curls:
   azer:
     -
+  azercm:
+    -
 functions:
   azer:
     -

@@ -2,6 +2,8 @@
 curls:
   tr0ll:
     -
+  tr0llcm:
+    -
 functions:
   tr0ll:
     -

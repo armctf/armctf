@@ -2,6 +2,8 @@
 curls:
   goldeneye:
     -
+  goldeneyecm:
+    -
 functions:
   goldeneye:
     -

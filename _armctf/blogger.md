@@ -2,6 +2,8 @@
 curls:
   blogger:
     -
+  bloggercm:
+    -
 functions:
   blogger:
     -

@@ -2,6 +2,8 @@
 curls:
   bluesmoke devrandom2:
     -
+  bluesmoke devrandom2cm:
+    -
 functions:
   bluesmoke devrandom2:
     -

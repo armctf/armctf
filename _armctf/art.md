@@ -2,6 +2,8 @@
 curls:
   art:
     -
+  artcm:
+    -
 functions:
   art:
     -

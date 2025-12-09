@@ -2,6 +2,8 @@
 curls:
   away:
     -
+  awaycm:
+    -
 functions:
   away:
     -

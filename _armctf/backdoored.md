@@ -2,6 +2,8 @@
 curls:
   backdoored:
     -
+  backdooredcm:
+    -
 functions:
   backdoored:
     -

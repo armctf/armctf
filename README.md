@@ -37,7 +37,9 @@ _didn't even tried windows arm, but will do a research about it._
 all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of resources.  
 
 ## downloading 
-downloads handled by nextcloud, server located in germany. every download is public so there should be no problem. if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists.
+downloads handled by nextcloud at germany server and [ctfmirror](https://ctfmirror.com/) at canada server. both servers are mine and urls given as direct link.
+
+_if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists._
 
 ## importing
 ctfs are prepared on vmware fusion, so sticking with it is a good idea.

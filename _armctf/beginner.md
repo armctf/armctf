@@ -2,6 +2,8 @@
 curls:
   beginner:
     -
+  beginnercm:
+    -
 functions:
   beginner:
     -
