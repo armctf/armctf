@@ -2,6 +2,8 @@
 curls:
   bossplayersctf:
     -
+  bossplayersctfcm:
+    -
 functions:
   bossplayersctf:
     -

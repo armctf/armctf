@@ -2,6 +2,8 @@
 curls:
   blackwidow:
     -
+  blackwidowcm:
+    -
 functions:
   blackwidow:
     -

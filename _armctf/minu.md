@@ -2,6 +2,8 @@
 curls:
   minu:
     -
+  minucm:
+    -
 functions:
   minu:
     -

@@ -2,6 +2,8 @@
 curls:
   air:
     -
+  aircm:
+    -
 functions:
   air:
     -

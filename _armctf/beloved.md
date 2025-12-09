@@ -2,6 +2,8 @@
 curls:
   beloved:
     -
+  belovedcm:
+    -
 functions:
   beloved:
     -

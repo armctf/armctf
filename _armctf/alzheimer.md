@@ -2,6 +2,8 @@
 curls:
   alzheimer:
     -
+  alzheimercm:
+    -
 functions:
   alzheimer:
     -

@@ -2,6 +2,8 @@
 curls:
   backdoor:
     -
+  backdoorcm:
+    -
 functions:
   backdoor:
     -

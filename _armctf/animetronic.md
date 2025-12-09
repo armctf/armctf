@@ -2,6 +2,8 @@
 curls:
   animetronic:
     -
+  animetroniccm:
+    -
 functions:
   animetronic:
     -

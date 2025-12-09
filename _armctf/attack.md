@@ -2,6 +2,8 @@
 curls:
   attack:
     -
+  attackcm:
+    -
 functions:
   attack:
     -

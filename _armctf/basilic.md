@@ -2,6 +2,8 @@
 curls:
   basilic:
     -
+  basiliccm:
+    -
 functions:
   basilic:
     -

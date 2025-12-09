@@ -2,6 +2,8 @@
 curls:
   muzzybox:
     -
+  muzzyboxcm:
+    -
 functions:
   muzzybox:
     -

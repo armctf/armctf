@@ -2,6 +2,8 @@
 curls:
   boxing:
     -
+  boxingcm:
+    -
 functions:
   boxing:
     -

@@ -2,6 +2,8 @@
 curls:
   cengbox:
     -
+  cengboxcm:
+    -
 functions:
   cengbox:
     -

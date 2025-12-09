@@ -2,6 +2,8 @@
 curls:
   bob:
     -
+  bobcm:
+    -
 functions:
   bob:
     -
