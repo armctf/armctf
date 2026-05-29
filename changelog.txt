@@ -1,4 +1,14 @@
-# armctf p7 - pool update @ 03.03.2025
+# armctf m3 - maintenance update @ 29.05.2026
+>kernels updated for non-kernel exploit machines
+this way added 100mb to 300mb to machine images
+even though i removed stale kernels
+>bunny was corrupted >>> fixed
+>cengbox was corrupted >>> fixed
+>no more vmware extra device errors since i edited
+all armctf.vmx files
+>nextcloud rate limiting disabled
+
+# armctf p7 - pool update @ 03.03.2026
 >added 10 machines
 
 # armctf m2 - maintenance update @ 09.12.2025

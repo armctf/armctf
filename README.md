@@ -25,7 +25,7 @@ _differ from x86._
 _need source code, which is not possible._  
 
 3- kernel exploits  
-_vmware fusion is not supporting linux kernels below 4.idontremember.0. best i can offer is dirtypipe, which is on kernel version 5.10.0-8._  
+_vmware fusion is not supporting linux kernels below 4.idontremember.0. best i can offer something like dirtypipe (cve-2022-0847), copyfail (cve-2026-31431), dirtyfrag (cve-2026-43284, cve-2026-43500) which are available for kernel version 5.10.46-4._  
 
 4- most of cves  
 _no arm version, no party._  
@@ -79,13 +79,13 @@ since rebuilding ctfs are taking a lot of time, i'm actively seeking your help t
 
 if you decided to help, you can find base images below. root password is `asd`.  
 
-debian 12 (kernel version 6.1.0-37)  
-url: https://nc.zurrak.com/s/Gg8PH2Jxqny34jk  
-sha256 checksum: `3dbe736ad4d68fe4b2753fd2e036405b3ffe9c651a849e58693ebe4e54e56da2`  
+debian 12 (kernel version 6.1.174-1)  
+direct link: https://nc.zurrak.com/public.php/dav/files/CRrq4QDcej3Mazd  
+sha256 checksum: `4b86f1d002b40f8f3dc717aa3097bb13420a5e61b067c738cf9005ca7ca456f5`  
 
-debian 11 (kernel version 5.10.0-8) >>> it's for ctfs that has kernel exploiting step  
-url: https://nc.zurrak.com/s/93FSjaHJK7ZzFBN  
-sha256 checksum: `8897c6516fbd4dd89b301ae5df61e7f8f619ba4564dfb5d609ddf2a17b79e202`  
+debian 11 (kernel version 5.10.46-4) >>> it's for ctfs that has kernel exploiting step  
+direct link: https://nc.zurrak.com/public.php/dav/files/pqxYTyTcrTf8jmi  
+sha256 checksum: `9d57faa1b4b3c6173bab32a4d999e37200804c59582ff99f27d2af72e8840b60`  
 
 you can always contact me from [here](https://armctf.com/contact.html).
 
