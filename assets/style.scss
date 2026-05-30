@@ -163,8 +163,9 @@ h5 {
 
 // binary list and search
 #bin-search-wrapper {
-    margin: 50px 0;
-    padding: 10px 0;
+//    margin: 50px 0;
+//   padding: 10px 0;
+    padding-bottom: 50px;
     position: relative; // XXX needed for tooltip sizing
 
     #bin-search-filters-dif {
@@ -496,4 +497,45 @@ td.vvm-wal {
     a.github-button {
         visibility: hidden;
     }
+}
+
+// browse folders
+.browsefolder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding-top: 20px;
+}
+
+.folder-title {
+  font-size: 15px;
+}
+
+.links-container {
+  display: flex;
+  gap: 30px;
+}
+
+.browselinks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.browselinks img {
+  width: 50px;
+  height: auto;
+}
+
+.flag {
+  font-size: 20px;
+}
+
+.speed {
+//  font-family: monospace;
+  font-size: 14px;
 }
