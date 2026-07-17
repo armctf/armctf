@@ -1,3 +1,6 @@
+# armctf p8 - pool update @ 17.07.2026
+>added 10 machines
+
 # armctf m3 - maintenance update @ 29.05.2026
 >kernels updated for non-kernel exploit machines
 this way added 100mb to 300mb to machine images
