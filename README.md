@@ -2,12 +2,12 @@
 # about armctf
 armctf is a project that provides downloadable vulnerable virtual machines, rebuilt from amd64 to arm64. it's for users to practice ctf challenges on arm-based systems.  
 
-vulnerable machines are sourced from vulnhub, hackmyvm and vulnyx. that's why full credit goes to the original creators.  
+vulnerable machines are sourced from vulnhub and hackmyvm. that's why full credit goes to the original creators.  
 
 ## why?
 a week ago, a friend asked me if he can find vulnhub-like machines to import and solve on his macbook with m series chip. a few days later i thought about:  
 
-1- not everyone wants to/should pay paid services to solve ctfs. vulnhub, hackmyvm and vulnyx are great resources.  
+1- not everyone wants to/should pay paid services to solve ctfs. vulnhub and hackmyvm are great resources.  
 2- not everyone uses windows systems.  
 3- utm'ing is much hassle.  
 4- there is no good solution for this. (afaik)  
