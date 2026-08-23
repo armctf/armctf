@@ -39,8 +39,8 @@ all vms has 2 cpu and 2 ram configuration. you can lower these if you are out of
 ## downloading 
 downloads handled by nextcloud* at germany server and [ctfmirror](https://ctfmirror.com/) at canada server. both servers are mine and download urls given as direct links. you can also download from the [armctf backblaze b2 bucket](https://f003.backblazeb2.com/file/armctfb2/index.html)** at netherlands server.  
 
-*_if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists._
-**_i know that backblaze b2 buckets are blocked in türkiye, but don't know about another countries._
+*_if you can't reach nextcloud, you're either banned by nextcloud or i'm doing some maintenance. mail me if problem persists._  
+**_i know that backblaze b2 buckets are blocked in türkiye, but don't know about another countries._  
 
 ## importing
 ctfs are prepared on vmware fusion, so sticking with it is a good idea.
