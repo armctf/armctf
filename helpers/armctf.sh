@@ -4,7 +4,7 @@
 ###
 read -p "vm name: " curl
 read -p "vm link: " curli
-read -p "vm link ctfmirror: " curlicm
+read -p "ctfmirror link: " curlicm
 read -p "sha256: " func
 read -p "creator: " creator
 read -p "link: " creatorl
@@ -26,7 +26,7 @@ echo "---" >> "$curl.md"
 echo "$curl:" >> curls.yml
 echo "  label: <a target=\"_blank\" class=\"newicon\" href=\"$curli\"><img src=\"assets/nc.png\"></a>" >> curls.yml
 echo "${curl}cm:" >> curls.yml
-echo "  label: <a target=\"_blank\" class=\"newicon\" href=\"$curlicm\"><img src=\"assets/mir.png\"></a>" >> curls.yml
+echo "  label: <a target=\"_blank\" class=\"newicon\" href=\"https://ctfmirror.com/armctf/$curlicm\"><img src=\"assets/mir.png\"></a>" >> curls.yml
 ###
 echo "$curl:" >> functions.yml
 echo "  label: $func" >> functions.yml
