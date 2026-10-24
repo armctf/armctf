@@ -1,0 +1,13 @@
+---
+curls:
+  condor:
+    -
+  condorcm:
+    -
+functions:
+  condor:
+    -
+wals:
+  condor:
+    -
+---

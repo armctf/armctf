@@ -11,7 +11,7 @@ a week ago, a friend asked me if he can find vulnhub-like machines to import and
 2- not everyone uses windows systems.  
 3- utm'ing is much hassle.  
 4- there is no good solution for this. (afaik)  
-5- i already have macbook with m series chip.  
+5- i already have a macbook with m series chip.  
 
 so i decided to do it as a side project.  
 
@@ -75,17 +75,18 @@ before starting the vm, don't forget to configure network. nat, cable bridge or 
 let's roll!  
 
 ## contributing
-since rebuilding ctfs are taking a lot of time, i'm actively seeking your help to expand this project.
+since rebuilding ctfs are taking a lot of time, i'm actively seeking your help to expand this project.  
 
 if you decided to help, you can find base images below. root password is `asd`.  
 
-debian 12 (kernel version 6.1.174-1)  
-direct link: https://nc.zurrak.com/public.php/dav/files/CRrq4QDcej3Mazd  
-sha256 checksum: `4b86f1d002b40f8f3dc717aa3097bb13420a5e61b067c738cf9005ca7ca456f5`  
+debian 13 (kernel version 6.12.113-1)  
+_you are free to upgrade kernel and remove stale one._  
+direct link: https://nc.zurrak.com/public.php/dav/files/8YJM5nSknnWeELW  
+sha256 checksum: `da1c8758992a247e50bbc630a2f7149a4a992b4eebd7285117b930d09c0cbd11`  
 
 debian 11 (kernel version 5.10.46-4) >>> it's for ctfs that has kernel exploiting step  
 direct link: https://nc.zurrak.com/public.php/dav/files/pqxYTyTcrTf8jmi  
 sha256 checksum: `9d57faa1b4b3c6173bab32a4d999e37200804c59582ff99f27d2af72e8840b60`  
 
-you can always contact me from [here](https://armctf.com/contact.html).
+you can always contact me from [here](https://armctf.com/contact.html).  
 
