@@ -35,6 +35,8 @@ echo "$curl:" >> wals.yml
 echo "  label: <a target=\"_blank\" href=\"$creatorl\">$creator</a>" >> wals.yml
 ###
 echo "$curl: \"https://vvmlist.github.io/#%22$curl%22\"" >> links.yml
+clear
+./armctf.sh
 ####
 #####
 ######

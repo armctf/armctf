@@ -1,0 +1,13 @@
+---
+curls:
+  zurrak:
+    -
+  zurrakcm:
+    -
+functions:
+  zurrak:
+    -
+wals:
+  zurrak:
+    -
+---
